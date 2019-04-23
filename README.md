@@ -1,4 +1,4 @@
-# Can we earn buying stocks based on sentiment news analysis? (Answer: Yes)
+# Can we earn buying stocks based on sentiment news analysis? (Answer: Nearly)
 ## Description
 Predicting how much this or that paper will cost in advance is impossible, since the cost depends on constantly incoming information.
 However, we can try to identify certain trends related to the public perception of the company (this is close to Behavioral Finance). And on the basis of them to make our bets (the price of the stock will rise in the near future). Trends are just as stable in time. And we do not analyze the price of the stock in time, but the general opinion of the company in time.
